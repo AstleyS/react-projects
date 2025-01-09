@@ -4,3 +4,6 @@
 [submodule "react-ecommerce"]
 	path = react-ecommerce
 	url = https://github.com/AstleyS/react-ecommerce
+[submodule "web-pathfinder-visualizer"]
+	path = web-pathfinder-visualizer
+	url = https://github.com/AstleyS/web-pathfinder-visualizer.git
